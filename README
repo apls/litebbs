@@ -1,0 +1,12 @@
+Simple BBS
+php project
+
+data
+	tags
+		name
+		catalog
+	topics
+		tag
+		topic
+		*attach
+		*comments
